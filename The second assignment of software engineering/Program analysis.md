@@ -316,5 +316,5 @@ public void testCalculateCosineSimilarityWithEmptyText() {
 | Test Report                                        | 测试报告                                                     | 20               | 10               |
 | Size Measurement                                   | 计算工作量                                                   | 10               | 10               |
 | Postmortem & Process Improvement Plan              | 事后总结，并提出过程改进计划                                | 20               | 20               |
-|                                                    | **合计**                                                     | 300              | 600              |
+|                                                    | **合计**                                                     | 400              | 600              |
 
