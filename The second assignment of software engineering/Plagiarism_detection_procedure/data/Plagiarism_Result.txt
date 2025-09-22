@@ -1,0 +1,2 @@
+Cosine Similarity: 0.7715167498104596
+Plagiarized
