@@ -1,8 +1,9 @@
-GitHub 项目链接
-
-1. PSP 表格（时间估算）
-
-
+软件工程第二次作业-个人项目
+这个作业属于哪个课程	https://edu.cnblogs.com/campus/gdgy/Class12Grade23ComputerScience
+这个作业要求在哪里	https://edu.cnblogs.com/campus/gdgy/Class12Grade23ComputerScience/homework/13468
+这个作业的目标	进行一次开发，熟悉软件开发流程，掌握必备技巧
+Github链接：https://github.com/Jacket-H/Jacket-H
+作业Releases链接：https://github.com/Jacket-H/Jacket-H/releases/tag/v1.0.0
 2. 计算模块接口设计与实现
 2.1 设计结构
 在实现抄袭检查程序时，计算模块的核心功能是计算两个文本之间的相似度。为了完成这个任务，程序被拆分成以下几个主要类和方法：
